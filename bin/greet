@@ -1,4 +1,4 @@
-def greeting (name)
+def greeting (hello)
   puts "Hi! I'm HAL, what's your name?"
 end
   
